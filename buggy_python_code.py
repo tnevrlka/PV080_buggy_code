@@ -1,8 +1,9 @@
-import sys
 import os
-import yaml
-import flask
+import sys
 import urllib
+
+import flask
+import yaml
 
 app = flask.Flask(__name__)
 
